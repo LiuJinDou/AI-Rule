@@ -1,0 +1,2 @@
+# AI-Rule
+ai rule
